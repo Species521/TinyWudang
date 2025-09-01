@@ -1,8 +1,21 @@
 # Tiny Wudang
 
 The project has been privately created to provide mechanics and features which aren't part of the UE5 topdown template.
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/c8cd064b-d70e-4f13-a6b9-9dcce3e55856" width="360" height="360">
+
 
 The features and how to use them:
+<br/><br/>
+
+- [Click-To-Move mouse navigation](Click-To-Walk-navigation)
+<br/><br/>
+- [Dynamic Camera Pan](Dynamic-Camera-Pan)
+<br/><br/>
+- [Dynamic Fading](Dynamic-Fading)
+<br/><br/>
+- [Fake Tilt-Shift Visuals](Fake-Tilt-Shift-Visual)
+<br/><br/>
 
 ### Click-To-Walk navigation
 
@@ -51,11 +64,27 @@ The fading follows a Timeline transition again and is simply reversed for the ex
 <img src="https://github.com/user-attachments/assets/03499c74-a520-4ba5-a378-f0d5cedd03e6" width="640" height="350">
 <br/><br/>
 
+NOTE: all occluding objects' collision needs to be set to "NoCollison" in order to be able to click 'inside' without being blocked, also Create Overlap Events needs to be checked too:
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/672de498-c33e-4ede-9eff-c1f01f82e450" width="640" height="350">
+
+
 ### Fake Tilt-Shift Visual
 
+Here's the camera settings for the fake tilt-shift effect:
+<br/><br/>
+<img width="584" height="820" alt="image" src="https://github.com/user-attachments/assets/fa53078f-d523-427a-b091-58ec80564689" />
 
-All assets used in the project are free to steal. The environment, the buildings, shaders and materials are created by me and are free to steal. 
-the foliage is from the Fab project "FantasyAssets Vol3 - Trees and Bushes", which is also free to download.
+
+
+All assets used in the project are free to download and use. The environment, the buildings, shaders and materials are created by me and are free to steal. 
+The foliage is from the Fab project [FantasyAssets Vol3 - Trees and Bushes](https://www.fab.com/listings/5336591a-de77-4815-ba72-bc4d130e5611), which is also free to download from tha Fab store.
+<br/><br/>
+
+<img src="https://github.com/user-attachments/assets/c0efc868-512c-4a02-831e-2473faa695a3" width="640" height="640">
+
+
+
 
 
 
