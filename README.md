@@ -7,6 +7,14 @@ The features and how to use them:
 ### Click-To-Walk navigation
 
 <img src="https://github.com/user-attachments/assets/59356722-e9d2-49cc-b5d1-e5e7ca0f6bad" width="360" height="360">
+<br/><br/>
+
+For a simple and intuitive click-to-move navigation, at first we need to set the mouse cursor to stay visible (upper graph).
+Next we need to capture the click location in the game world and convert its coordinates to world space coordinates. 
+The result is set as an end point on the navmesh and fed into a Simple Move To instruction in order for the character to find its way.
+
+<img src="https://github.com/user-attachments/assets/4b5c239d-6ade-4a77-90af-3bdc1a44d17d" width="640" height="350">
+
 
 ### Dynamic Camera Pan
 
@@ -29,13 +37,16 @@ There they are picked up and the camera angle will change over time via a Timeli
 <img src="https://github.com/user-attachments/assets/0ed401e9-90b0-44f0-97aa-4a8bbc8fe09a" width="350" height="350">
 
 
-Custom Character
+### Dynamic Fading
 
 
-Fake Tilt-Shift Camera
+
+
+### Fake Tilt-Shift Visual
 
 
 All assets used in the project are free to steal. The environment, the buildings, shaders and materials are created by me and are free to steal. 
 the foliage is from the Fab project "FantasyAssets Vol3 - Trees and Bushes", which is also free to download.
+
 
 
