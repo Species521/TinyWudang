@@ -39,6 +39,9 @@ There they are picked up and the camera angle will change over time via a Timeli
 
 ### Dynamic Fading
 
+In order to be able to navigate inside roofed areas, the occluding objects are faded out and in via overlap events.
+<img src="https://github.com/user-attachments/assets/6e90cfb3-3997-4c20-9c80-5f1319d02135" width="640" height="350">
+
 
 
 
@@ -47,6 +50,7 @@ There they are picked up and the camera angle will change over time via a Timeli
 
 All assets used in the project are free to steal. The environment, the buildings, shaders and materials are created by me and are free to steal. 
 the foliage is from the Fab project "FantasyAssets Vol3 - Trees and Bushes", which is also free to download.
+
 
 
 
