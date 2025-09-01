@@ -10,11 +10,11 @@ The features and how to use them:
 
 - [Click-To-Move mouse navigation](Click-To-Walk-navigation)
 <br/><br/>
-- [Dynamic Camera Pan](Dynamic-Camera-Pan)
+- [Dynamic-Camera-Pan](https://github.com/Species521/TinyWudang/edit/main/README.md#dynamic-camera-pan)
 <br/><br/>
-- [Dynamic Fading](Dynamic-Fading)
+- [Dynamic-Fading](https://github.com/Species521/TinyWudang/edit/main/README.md#dynamic-fading)
 <br/><br/>
-- [Fake Tilt-Shift Visuals](Fake-Tilt-Shift-Visual)
+- [Fake-Tilt-Shift-Visual](https://github.com/Species521/TinyWudang/edit/main/README.md#fake-tilt-shift-visual)
 <br/><br/>
 
 ### Click-To-Move navigation
@@ -82,6 +82,7 @@ The foliage is from the Fab project [FantasyAssets Vol3 - Trees and Bushes](http
 <br/><br/>
 
 <img src="https://github.com/user-attachments/assets/c0efc868-512c-4a02-831e-2473faa695a3" width="640" height="640">
+
 
 
 
