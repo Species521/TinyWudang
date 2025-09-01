@@ -5,7 +5,7 @@ The project has been privately created to provide mechanics and features which a
 <img src="https://github.com/user-attachments/assets/c8cd064b-d70e-4f13-a6b9-9dcce3e55856" width="360" height="360">
 
 
-The features and how to use them (please note that the section links below won't work due to a recent Github bug):
+The features and how to use them (please note that the section links below might not work properly due to a recent Github bug):
 <br/><br/>
 
 - [Click-To-Move mouse navigation](Click-To-Walk-navigation)
@@ -82,6 +82,7 @@ The foliage is from the Fab project [FantasyAssets Vol3 - Trees and Bushes](http
 <br/><br/>
 
 <img src="https://github.com/user-attachments/assets/c0efc868-512c-4a02-831e-2473faa695a3" width="640" height="640">
+
 
 
 
